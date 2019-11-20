@@ -1,3 +1,7 @@
 # The Shortcut-Challenge
-Solution for interesting challenges
-Please find the solution in the .inpy file
+<li> Solution for interesting challenges </li>
+<li> Please find the solution in the .inpynb file </li>
+
+# For the solution
+<li> Part 1 - Numpy Challenge </li>
+<li> Part 2 - Pandas Challenge </li>
